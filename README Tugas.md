@@ -8,6 +8,9 @@ Installing Laravel proyek LaraPress
 <img width="1919" height="1050" alt="image" src="https://github.com/user-attachments/assets/88c232e7-c092-4204-8d7c-4d09654d6047" />
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/c688b586-0246-4fa0-a725-7c9c110d56fa" />
 
+Setelah di Push ke github 
+<img width="1850" height="947" alt="image" src="https://github.com/user-attachments/assets/4d08a1f7-f802-4cc7-9cb7-3704d5ac52df" />
+
 Halaman Selamat Datang 
 <img width="1845" height="944" alt="image" src="https://github.com/user-attachments/assets/3f8d4079-983d-437a-a3db-dc59ef8bc861" />
 
